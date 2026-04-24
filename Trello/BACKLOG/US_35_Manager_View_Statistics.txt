@@ -1,0 +1,8 @@
+Card ID: 35
+Title: Manager View Statistics
+User Story:
+As a Department Manager, I want to view statistics, so that I can evaluate system efficiency.
+Description:
+This feature ensures i can evaluate system efficiency.
+Acceptance Criteria: Graphs/tables displayed
+Status: Backlog

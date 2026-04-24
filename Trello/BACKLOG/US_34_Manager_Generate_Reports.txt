@@ -1,0 +1,8 @@
+Card ID: 34
+Title: Manager Generate Reports
+User Story:
+As a Department Manager, I want to generate reports, so that I can analyze performance.
+Description:
+This feature ensures i can analyze performance.
+Acceptance Criteria: Reports displayed (daily/monthly/yearly)
+Status: Backlog

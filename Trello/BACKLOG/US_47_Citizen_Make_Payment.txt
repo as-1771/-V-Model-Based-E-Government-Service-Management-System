@@ -1,0 +1,8 @@
+Card ID: 47
+Title: Citizen Make Payment
+User Story:
+As a Citizen, I want to make payment, so that My request is processed.
+Description:
+This feature ensures my request is processed.
+Acceptance Criteria: Payment success updates status
+Status: Backlog

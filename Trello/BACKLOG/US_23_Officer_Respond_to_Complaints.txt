@@ -1,0 +1,8 @@
+Card ID: 23
+Title: Officer Respond to Complaints
+User Story:
+As a Government Officer, I want to respond to complaints, so that Resolve citizen issues.
+Description:
+This feature ensures resolve citizen issues.
+Acceptance Criteria: Response recorded and visible
+Status: Backlog

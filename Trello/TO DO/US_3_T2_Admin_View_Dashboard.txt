@@ -1,0 +1,8 @@
+Card ID: 03
+Title: Admin View Dashboard
+User Story:
+As a System Administrator, I want to view my personalized dashboard, so that I can access system controls.
+Description:
+This feature ensures i can access system controls.
+Acceptance Criteria: Dashboard window is displayed
+Status: Backlog

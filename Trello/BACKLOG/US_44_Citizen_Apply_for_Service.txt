@@ -1,0 +1,8 @@
+Card ID: 44
+Title: Citizen Apply for Service
+User Story:
+As a Citizen, I want to apply for a service, so that I can request government service.
+Description:
+This feature ensures i can request government service.
+Acceptance Criteria: Form submission with confirmation
+Status: Backlog

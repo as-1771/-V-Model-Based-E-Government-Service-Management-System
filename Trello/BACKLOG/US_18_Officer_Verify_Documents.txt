@@ -1,0 +1,8 @@
+Card ID: 18
+Title: Officer Verify Documents
+User Story:
+As a Government Officer, I want to verify documents, so that Ensure application accuracy.
+Description:
+This feature ensures ensure application accuracy.
+Acceptance Criteria: Verification status updated
+Status: Backlog

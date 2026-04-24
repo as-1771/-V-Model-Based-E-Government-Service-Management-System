@@ -1,0 +1,8 @@
+Card ID: 45
+Title: Citizen Upload Documents
+User Story:
+As a Citizen, I want to upload documents, so that My application is complete.
+Description:
+This feature ensures my application is complete.
+Acceptance Criteria: Files uploaded successfully
+Status: Backlog

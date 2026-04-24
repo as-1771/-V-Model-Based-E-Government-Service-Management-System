@@ -1,0 +1,8 @@
+Card ID: 32
+Title: Manager Reassign Tasks
+User Story:
+As a Department Manager, I want to reassign tasks, so that Work is balanced.
+Description:
+This feature ensures work is balanced.
+Acceptance Criteria: Task reassignment confirmation
+Status: Backlog

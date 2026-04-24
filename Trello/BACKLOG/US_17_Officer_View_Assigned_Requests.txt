@@ -1,0 +1,8 @@
+Card ID: 17
+Title: Officer View Assigned Requests
+User Story:
+As a Government Officer, I want to view assigned requests, so that I can process applications.
+Description:
+This feature ensures i can process applications.
+Acceptance Criteria: Request list is displayed
+Status: Backlog

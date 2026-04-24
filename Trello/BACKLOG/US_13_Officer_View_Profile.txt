@@ -1,0 +1,8 @@
+Card ID: 13
+Title: Officer View Profile
+User Story:
+As a Government Officer, I want to view my own profile details, so that I can see a list that contains information provided in the registration form.
+Description:
+This feature ensures i can see a list that contains information provided in the registration form.
+Acceptance Criteria: Information list table window including edit profile button
+Status: Backlog

@@ -1,0 +1,8 @@
+Card ID: 30
+Title: Manager View All Applications
+User Story:
+As a Department Manager, I want to view all applications, so that I can track performance.
+Description:
+This feature ensures i can track performance.
+Acceptance Criteria: Application list available
+Status: Backlog

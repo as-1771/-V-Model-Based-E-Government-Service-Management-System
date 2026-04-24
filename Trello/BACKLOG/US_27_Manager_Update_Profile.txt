@@ -1,0 +1,8 @@
+Card ID: 27
+Title: Manager Update Profile
+User Story:
+As a Department Manager, I want to update my information with valid information, so that I can replace the incorrect information with the right information.
+Description:
+This feature ensures i can replace the incorrect information with the right information.
+Acceptance Criteria: Information list table window including edit profile button
+Status: Backlog

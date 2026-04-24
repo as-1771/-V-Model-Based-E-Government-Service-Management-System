@@ -1,0 +1,8 @@
+Card ID: 21
+Title: Officer Reject Application
+User Story:
+As a Government Officer, I want to reject application, so that Handle invalid requests.
+Description:
+This feature ensures handle invalid requests.
+Acceptance Criteria: Rejection with remarks required
+Status: Backlog

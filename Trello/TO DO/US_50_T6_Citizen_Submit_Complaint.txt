@@ -1,0 +1,8 @@
+Card ID: 50
+Title: Citizen Submit Complaint
+User Story:
+As a Citizen, I want to submit complaint, so that I can report issues.
+Description:
+This feature ensures i can report issues.
+Acceptance Criteria: Complaint submission confirmation
+Status: Backlog

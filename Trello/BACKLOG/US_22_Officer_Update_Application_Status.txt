@@ -1,0 +1,8 @@
+Card ID: 22
+Title: Officer Update Application Status
+User Story:
+As a Government Officer, I want to update application status, so that Maintain transparency.
+Description:
+This feature ensures maintain transparency.
+Acceptance Criteria: Status updated in system
+Status: Backlog

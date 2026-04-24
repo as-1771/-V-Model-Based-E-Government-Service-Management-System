@@ -1,0 +1,8 @@
+Card ID: 12
+Title: Officer View Dashboard
+User Story:
+As a Government Officer, I want to view my personalized dashboard, so that I can access assigned work.
+Description:
+This feature ensures i can access assigned work.
+Acceptance Criteria: Dashboard loads successfully
+Status: Backlog

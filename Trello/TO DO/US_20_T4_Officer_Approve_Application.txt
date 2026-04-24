@@ -1,0 +1,8 @@
+Card ID: 20
+Title: Officer Approve Application
+User Story:
+As a Government Officer, I want to approve application, so that Complete valid requests.
+Description:
+This feature ensures complete valid requests.
+Acceptance Criteria: Status updated to approved
+Status: Backlog

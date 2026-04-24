@@ -1,0 +1,8 @@
+Card ID: 05
+Title: Admin Update Profile
+User Story:
+As a System Administrator, I want to update my information with valid information, so that I can correct my data.
+Description:
+This feature ensures i can correct my data.
+Acceptance Criteria: Updated information is saved successfully
+Status: Backlog

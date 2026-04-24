@@ -1,0 +1,8 @@
+Card ID: 46
+Title: Citizen View Service Fee
+User Story:
+As a Citizen, I want to view service fee, so that I know payment amount.
+Description:
+This feature ensures i know payment amount.
+Acceptance Criteria: Fee displayed before submission
+Status: Backlog

@@ -1,0 +1,8 @@
+Card ID: 19
+Title: Officer Confirm Payment Status
+User Story:
+As a Government Officer, I want to confirm payment status, so that Ensure payment is valid.
+Description:
+This feature ensures ensure payment is valid.
+Acceptance Criteria: Payment verified before approval
+Status: Backlog

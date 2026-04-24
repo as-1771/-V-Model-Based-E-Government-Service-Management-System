@@ -1,0 +1,8 @@
+Card ID: 25
+Title: Manager View Dashboard
+User Story:
+As a Department Manager, I want to view my personalized dashboard, so that I can access my workspace.
+Description:
+This feature ensures i can access my workspace.
+Acceptance Criteria: Dashboard window is displayed
+Status: Backlog

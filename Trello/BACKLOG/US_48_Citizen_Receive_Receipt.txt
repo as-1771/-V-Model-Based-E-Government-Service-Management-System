@@ -1,0 +1,8 @@
+Card ID: 48
+Title: Citizen Receive Receipt
+User Story:
+As a Citizen, I want to receive receipt, so that I have proof of payment.
+Description:
+This feature ensures i have proof of payment.
+Acceptance Criteria: Digital receipt generated
+Status: Backlog

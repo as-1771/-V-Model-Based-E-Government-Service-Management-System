@@ -1,0 +1,8 @@
+Card ID: 11
+Title: Officer Login
+User Story:
+As a Government Officer, I want to login with a valid username and password to the system, so that The system can authenticate me and I can trust it.
+Description:
+This feature ensures the system can authenticate me and i can trust it.
+Acceptance Criteria: After successful login, the data associated to the user should be accessible
+Status: Backlog

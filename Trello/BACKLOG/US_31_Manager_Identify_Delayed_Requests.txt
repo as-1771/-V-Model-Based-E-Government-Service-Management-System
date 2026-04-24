@@ -1,0 +1,8 @@
+Card ID: 31
+Title: Manager Identify Delayed Requests
+User Story:
+As a Department Manager, I want to identify delayed requests, so that I can improve efficiency.
+Description:
+This feature ensures i can improve efficiency.
+Acceptance Criteria: Delayed items highlighted
+Status: Backlog

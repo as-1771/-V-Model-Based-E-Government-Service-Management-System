@@ -1,0 +1,8 @@
+Card ID: 26
+Title: Manager View Profile
+User Story:
+As a Department Manager, I want to view my own profile details, so that I can see a list that contains information.
+Description:
+This feature ensures i can see a list that contains information.
+Acceptance Criteria: Information list table window including edit profile button
+Status: Backlog

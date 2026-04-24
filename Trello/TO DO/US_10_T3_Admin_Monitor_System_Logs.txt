@@ -1,0 +1,8 @@
+Card ID: 10
+Title: Admin Monitor System Logs
+User Story:
+As a System Administrator, I want to monitor system logs, so that I can ensure system security.
+Description:
+This feature ensures i can ensure system security.
+Acceptance Criteria: Logs displayed with activity details
+Status: Backlog

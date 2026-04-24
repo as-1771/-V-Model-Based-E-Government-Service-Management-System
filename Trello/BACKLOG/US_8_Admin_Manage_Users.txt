@@ -1,0 +1,8 @@
+Card ID: 08
+Title: Admin Manage Users
+User Story:
+As a System Administrator, I want to manage users, so that I can control system access.
+Description:
+This feature ensures i can control system access.
+Acceptance Criteria: User list with add/remove options
+Status: Backlog

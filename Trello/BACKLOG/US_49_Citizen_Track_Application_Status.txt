@@ -1,0 +1,8 @@
+Card ID: 49
+Title: Citizen Track Application Status
+User Story:
+As a Citizen, I want to track application status, so that I stay informed.
+Description:
+This feature ensures i stay informed.
+Acceptance Criteria: Status visible with tracking ID
+Status: Backlog

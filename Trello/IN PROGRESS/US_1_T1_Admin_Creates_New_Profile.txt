@@ -1,0 +1,8 @@
+Card ID: 01
+Title: Admin Creates New Profile
+User Story:
+As a System Administrator, I want to create a new admin profile, so that I can enroll myself in the system.
+Description:
+This feature ensures i can enroll myself in the system.
+Acceptance Criteria: User must input required information and given notification of success
+Status: Backlog

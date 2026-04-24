@@ -1,0 +1,8 @@
+Card ID: 39
+Title: Citizen View Dashboard
+User Story:
+As a Citizen, I want to view my personalized dashboard, so that I can access services.
+Description:
+This feature ensures i can access services.
+Acceptance Criteria: Dashboard window is displayed
+Status: Backlog

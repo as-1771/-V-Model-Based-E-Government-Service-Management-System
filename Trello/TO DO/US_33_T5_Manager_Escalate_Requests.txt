@@ -1,0 +1,8 @@
+Card ID: 33
+Title: Manager Escalate Requests
+User Story:
+As a Department Manager, I want to escalate requests, so that Critical issues are handled.
+Description:
+This feature ensures critical issues are handled.
+Acceptance Criteria: Escalation logged
+Status: Backlog

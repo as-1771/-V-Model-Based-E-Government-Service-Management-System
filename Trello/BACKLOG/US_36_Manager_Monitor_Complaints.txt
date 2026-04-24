@@ -1,0 +1,8 @@
+Card ID: 36
+Title: Manager Monitor Complaints
+User Story:
+As a Department Manager, I want to monitor complaints, so that Ensure resolution.
+Description:
+This feature ensures ensure resolution.
+Acceptance Criteria: Complaint status tracking
+Status: Backlog

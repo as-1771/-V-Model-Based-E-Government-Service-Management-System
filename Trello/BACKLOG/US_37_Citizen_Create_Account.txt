@@ -1,0 +1,8 @@
+Card ID: 37
+Title: Citizen Create Account
+User Story:
+As a Citizen, I want to create a new account, so that I can use government services.
+Description:
+This feature ensures i can use government services.
+Acceptance Criteria: Valid information required with confirmation
+Status: Backlog

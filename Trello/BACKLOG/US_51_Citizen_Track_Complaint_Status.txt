@@ -1,0 +1,8 @@
+Card ID: 51
+Title: Citizen Track Complaint Status
+User Story:
+As a Citizen, I want to track complaint status, so that I know resolution progress.
+Description:
+This feature ensures i know resolution progress.
+Acceptance Criteria: Complaint status displayed
+Status: Backlog

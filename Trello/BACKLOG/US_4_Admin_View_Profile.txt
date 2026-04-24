@@ -1,0 +1,8 @@
+Card ID: 04
+Title: Admin View Profile
+User Story:
+As a System Administrator, I want to view my profile details, so that I can see my information.
+Description:
+This feature ensures i can see my information.
+Acceptance Criteria: Profile table with edit option is shown
+Status: Backlog
